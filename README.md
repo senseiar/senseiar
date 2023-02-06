@@ -1,11 +1,10 @@
 [![Header](https://github.com/senseiar/senseiar/blob/main/assets/logo.jpg)](https://www.linkedin.com/in/andrii-ratkin/)
-## Hello!👋 My name is Andrii and I am a beginner QA engineer.
-## This is my portfolio.
-
+## Hello!👋 My name is Andriy and I am a beginner QA engineer.
+Here you can check out my portfolio.
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/115ea-1vKsk9e8c_Jpz0y5nDJgCZx6ame/view)
 
-### Language and Tools
+### Tools and Languages
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
