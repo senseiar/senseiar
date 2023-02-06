@@ -1,7 +1,9 @@
-[![Header](https://github.com/senseiar/senseiar/blob/main/assets/logo.jpg)](https://github.com/senseiar/senseiar/blob/main/assets/logo.jpg)
-## Hello!👋 My name is Andriy and I am a beginner QA engineer.
-## Below you can find my portfolio 🔽.
-[Link to my CV]()
+[![Header](https://github.com/senseiar/senseiar/blob/main/assets/logo.jpg)](https://www.linkedin.com/in/andrii-ratkin/)
+## Hello!👋 My name is Andrii and I am a beginner QA engineer.
+## This is my portfolio.
+
+## My CV
+[Link to my CV](https://drive.google.com/file/d/115ea-1vKsk9e8c_Jpz0y5nDJgCZx6ame/view)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
